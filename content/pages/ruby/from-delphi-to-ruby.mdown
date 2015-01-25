@@ -3,20 +3,30 @@ Date: 26 Dec 2014
 # From Delphi to Ruby
 
 ### What is Delphi?
-A thing what wonders me when starting to learn *Ruby* was some similitudes with *Delphi*. As you may know, Delphi is no more than *Object Pascal*, an ancient language with a lot of improvements made by [Embarcadero](http://www.embarcadero.com/products/delphi) since they adquired Delphi to _Imprise Tehcnologies_, former _Borland_.
+A thing what wondered me when started to learn *Ruby* was some similitudes with *Delphi*. As you may know, Delphi is no more than *Object Pascal*, an ancient language with a lot of improvements made by [Embarcadero](http://www.embarcadero.com/products/delphi) since they acquired Delphi to _Imprise Tehcnologies_, former _Borland_.
 Today Delphi can generate code for Windows, MacOS, iOS and Android with some caveats, but it's possible.
 
-### Similitudes
-At first glance, blocks not only are formed _alla C_ with the curly brackets **{ ... }**, in *Ruby* you can also use the *do ... end* syntax, similar to *begin ... end* of Pascal. 
+### Similarities
+At first glance, blocks not only are formed _alla C_ with the curly brackets **{ ... }**, in *Ruby* you can also use the <code>do ... end</code> syntax, similar to <code>begin ... end</code> of Pascal. 
 
-Another similitude is you can separate sentences with semicolon ";", despite it's considered a bad practise, due it is only necessary when putting more than one sentence in a line. If you write a sentence for line, the line end is enought.
+Another similitude is you can separate sentences with semicolon ";", despite it's considered a bad practice, due it is only necessary when putting more than one sentence in a line. If you write a sentence for line, the line end is enough.
 
 And there are more: 
 
-* sections of visibility inside *class* declaration use same words: private, protected, public ... and act as a sections separators, just as Object Pascal does.
-* the *null* value is named *nil*, exactly as Pascal. 
+* sections of visibility inside <code>class</code> declaration use same words: <code>private, protected, public ...</code> and act as a sections separators, just as Object Pascal does.
+* the <code>null</code> value is named <code>nil</code>, exactly as Pascal. 
+
+### The mythical one line Fibonacci calculation
+
+*Ruby* is concise. Very concise. As a sample for my Pascalian readers, this is a function to calculate n Fibonnaci number:
+
+<pre><code>:::ruby
+def fibonacci(n)
+  (n &lt; 2) ? 1 : fibonacci(n-2) + fibonacci(n-1)
+end
+</code></pre>
 
 ### More to come
 
-I guess I'll discover more similitudes. It's just a bet to myself :)
+I guess I'll discover more similarities. It's just a bet to myself :)
 

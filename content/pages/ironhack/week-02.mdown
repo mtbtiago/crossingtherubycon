@@ -1,3 +1,41 @@
-Date: 25 Jam 2015
+Date: 25 Jan 2015
 
 # Ironhack. Week 02
+
+## The teacher
+
+This week we continue with **Ruby**, covering **TDD** and [**Sinatra**](http://www.sinatrarb.com/)
+The teacher is [Albert Bellonch](https://twitter.com/abellonch). A young entrepreneur, creator of the SaaS [Quipu](https://getquipu.com/)
+
+## The talks
+
+We had two talks this week:
+
+On *Tuesday* [Àlex Rodríguez Bacardit](https://twitter.com/lexrodba), (CMO at Marsbased and Organizer of Startup Grind) talked about his company [Mars Based](http://marsbased.com/) and __"StartUp BCN Ecosystem"__
+*MarsBased* works exclusively in *Ruby on Rails*. I got great insights and experiences from him.
+<img src="/attachments/ironhack/week-02/alex-rodba.jpg" class="picture" alt="Alex, giving an interesting talk about how he created his startup"</img>
+*Alex, giving an interesting talk about how he created his startup*
+
+On *Thursday* [Guillermo Marqueta](https://twitter.com/guillemarqueta) (Inlea Foundation Director and Co-organizer at Barcelona Lean Startup Circle), talked to us about **Lean Methodologies**
+<img src="/attachments/ironhack/week-02/guillermo-marqueta.jpg" class="picture" alt="Guillermo talking about customer development"</img>
+*Guillermo talking about customer development*
+
+## The subjects
+
+I enjoyed a lot with *TDD*. Most students never heard before about testing. I did testing with <code>dUnit.pas</code> before and was a sort of frustrating due in our Delphi + Database stack is almost impossible mocking and unbinding some parts.
+May be *Ruby* debugger tools are very primitives, the case is *TDD* in *Ruby* (done by *rspec*) is easy and productive.
+
+*Sinatra* and *ActiveRecord* where the other great characters in our week. Just scratched the power of boths in every day more complicated exercises.
+
+## The Friday evening
+
+This is a tradition!
+<img src="/attachments/ironhack/week-02/beer-countdown.jpg" class="picture" alt="Beer countdown"</img>
+*Albert put this countdown to stimulate us to finish exercises and go to celebrate it.* 
+
+## The Tank Battle
+
+This week had an extra. On Saturday evening, some of we joined to *Xavier* to play with Ruby Tanks. Using a gem named [RTanque](https://github.com/awilliams/RTanque), you program the "brain" of your tank and send it to fight against other programmed tanks. It was funny, but mine didn't be a masterpiece :)
+<img src="/attachments/ironhack/week-02/tank-battle.jpg" class="picture" alt="RTanque gem in action"</img>
+*RTanque gem in action* 
+

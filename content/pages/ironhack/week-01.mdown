@@ -1,3 +1,38 @@
-Date: 18 Jam 2015
+Date: 18 Jan 2015
 
 # Ironhack. Week 01
+
+## The day arrived
+
+At least, after two months of considering, deciding and making the prework (I speed almost 40 hours with it), the classes started. We met our teacher, [Rafa de Castro](https://twitter.com/rafadc). 
+
+In Ironhack courses every week we have a different teacher, teaching different subject. 
+
+Our cohort is formed by 13 people. There are from UK, Germany, Lithuania, Canada, Venezuela, Colombia and Spain.
+
+<img src="/attachments/ironhack/week-01/welcome-pack.jpg" class="picture" alt="The welcome pack has to stickers to put on your laptop">
+*The welcome pack has to stickers to put on your laptop*
+
+## The teacher
+
+Rafa, an excellent [Rubyst](http://en.wiktionary.org/wiki/Rubyist), and a twisted mind designing programming exercises, was a great and patient teacher. 
+
+I was surprissed to see some students with no previous programming experience, fighting against very difficult exercises. Not only language was new for them, also the keyboard (regular users don't use brackets nor know anything about shortcuts), the code editor ... We use [Sublime Text](http://www.sublimetext.com/)
+
+When finished first week, **nobody abandoned**. Great! Good news!
+
+## Ironhack talks
+
+As part of our learning, Ironhack has programmed a series of talks done by interesting people. 
+
+On **Tuesday**, [Xavi Leal](https://twitter.com/lealxavi), Ironhack COO, talked to us about __"How to get a job after IH"__
+
+On **Thursday**, [Elena Torró](https://twitter.com/Elenarcolepsia). 
+
+<img src="/attachments/ironhack/week-01/elena-torro.jpg" class="picture" alt="Elena talk to us about UX (user experience), a concept beyond the UI (user interface).">
+*Elena talk to us about UX (user experience), a concept beyond the UI (user interface).*
+
+## Friday evening
+
+<img src="/attachments/ironhack/week-01/friday-beers.jpg" class="picture" alt="Friday evening is different. We say goodbye to the teacher and have some beers, here at MOB. It's a great moment.">
+*Friday evening is different. We say goodbye to the teacher and have some beers, here at MOB. It's a great moment.*

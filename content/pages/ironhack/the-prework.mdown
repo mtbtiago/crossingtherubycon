@@ -1,3 +1,19 @@
-Date: 02 Jam 2015
+Date: 02 Jan 2015
 
 # Ironhack. The Prework
+
+## How it works
+
+When you are enrolled, Ironhack sends to you a bunch of work to be done *before* the bootcamp starts. This include:
+
+* Configurating your machine. Your computer **must** be a Macbook or a Linux box. Sorry, no Windows allowed :)
+> currently at the boocamp, we are 8 Macbooks and 5 Linux. I use [Linux Mint](http://www.linuxmint.com/), an excellent Ubuntu/Debian based distro.
+* Study a heavy lot of material: Ruby, HTML, CSS, Javascript, Git, Shell
+> The recommended shell for both Mac and Linux is [zsh](https://github.com/robbyrussell/oh-my-zsh). I like a lot this shell. You can forget Bash.
+* Make exercises based on these materials and send to your prework teacher. 
+
+## Cohort communication
+
+Ironhack uses [Slack](https://slack.com/) for group communication and file sharing. It's a great platform. Slack's web is superb and mobile app performs as well. I recommend to your team. It's a must.
+
+Also used *Google hangouts* to do meetings before the course started. In English, of course :)
