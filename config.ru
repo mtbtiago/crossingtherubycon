@@ -13,6 +13,6 @@ require 'nesta/app'
 
 Nesta::Env.root = ::File.expand_path('.', ::File.dirname(__FILE__))
 
-use Rack::Codehighlighter, :coderay, :element => "pre>code", :markdown => true
+use Rack::Codehighlighter, :coderay, :element => "pre>code", :markdown => true, :pattern => /\A:::(\w+)\s*\n/
 
 run Nesta::App

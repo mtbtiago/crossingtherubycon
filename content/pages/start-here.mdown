@@ -9,9 +9,15 @@ This is a **sample** *text* in _italic_ and in __more italic__
 A piece of ruby code:
 
 <pre><code>:::ruby
-def hello
-  puts "Hi!"
-end</code></pre>
+# fibonacci
+def fib(n)
+  if n &lt; 2
+    1
+  else
+    fib(n-2) + fib(n-1)
+  end
+end
+</code></pre>
 
 
 You're reading a short article in Nesta, a rather simple CMS. I've
