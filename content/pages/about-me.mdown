@@ -1,0 +1,15 @@
+Date: 24 Dec 2014
+
+# About me
+
+##__If you stop learning, you are dead__
+
+I'm developing software since 5.25" flopy disks had only a single side formated, with 180KB capacity. This is a lot of time!
+
+Having developed in COBOL, Pascal at first then in [Delphi](http://www.embarcadero.com/products/delphi), SQL, Java ... and finally ... Ruby on Rails! Yes, I think RoR will be my home for the next years.
+
+You can [follow me on Twitter](http://twitter.com/tiagoameller) or see more in my [about me page](http://about.me/tiagoameller).
+
+This is my [other blog](www.tiagobtt.com), devoted to Mountain Biking.
+
+

@@ -1,0 +1,12 @@
+Date: 25 Jan 2015
+
+# Hello World
+
+This is my very, very first post in this blog.
+I've started studying [**Ruby**](www.ruby-lang.org/) and his ecosystem. This blog will serve to me to talk 
+about my progress, my discoverings and my frustrations, all inherent when learning 
+a new technology.
+
+I'm a long term *Windows Desktop* developer, mainly in [**Delphi**](http://www.embarcadero.com/products/delphi), the most wide accepted Object Pascal implementation. Delphi is heavy focused to database applications. And it does very well in the Windows "exe" arena. **Ruby on Rails** does the same (and much more!) in the web. 
+
+Let's start on it! 
