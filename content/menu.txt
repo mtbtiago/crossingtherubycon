@@ -1,4 +1,9 @@
 /
-about-this-blog
-about-me
-resources-to-learn-ruby
+  about/about-this-blog
+  about/about-me
+ironhack/ironhack-course
+  ironhack/the-prework
+  ironhack/week-01
+  ironhack/week-02
+ruby/from-delphi-to-ruby
+ruby/resources-to-learn-ruby

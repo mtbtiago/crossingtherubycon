@@ -9,6 +9,6 @@ Here, with any special order, are a lot of links than served to me:
 * [Awesome print](https://github.com/michaeldv/awesome_print) will help you in _puts oriented development_
 * Test your *Regular Expresions* (AKA RegEx) with this [online tool](http://rubular.com/)
 * Two tools for manage user login in your Rails apps:
-	* *Devise*, the most powerful is [here](https://github.com/plataformatec/devise)
+	* *Devise*, the most powerful, is [here](https://github.com/plataformatec/devise)
 	* [Sorcery](https://github.com/NoamB/sorcery)
 

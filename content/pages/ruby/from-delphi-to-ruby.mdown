@@ -1,0 +1,22 @@
+Date: 26 Dec 2014
+
+# From Delphi to Ruby
+
+### What is Delphi?
+A thing what wonders me when starting to learn *Ruby* was some similitudes with *Delphi*. As you may know, Delphi is no more than *Object Pascal*, an ancient language with a lot of improvements made by [Embarcadero](http://www.embarcadero.com/products/delphi) since they adquired Delphi to _Imprise Tehcnologies_, former _Borland_.
+Today Delphi can generate code for Windows, MacOS, iOS and Android with some caveats, but it's possible.
+
+### Similitudes
+At first glance, blocks not only are formed _alla C_ with the curly brackets **{ ... }**, in *Ruby* you can also use the *do ... end* syntax, similar to *begin ... end* of Pascal. 
+
+Another similitude is you can separate sentences with semicolon ";", despite it's considered a bad practise, due it is only necessary when putting more than one sentence in a line. If you write a sentence for line, the line end is enought.
+
+And there are more: 
+
+* sections of visibility inside *class* declaration use same words: private, protected, public ... and act as a sections separators, just as Object Pascal does.
+* the *null* value is named *nil*, exactly as Pascal. 
+
+### More to come
+
+I guess I'll discover more similitudes. It's just a bet to myself :)
+
