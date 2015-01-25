@@ -6,6 +6,14 @@ Date: 31 Dec 2010
 
 This is a **sample** *text* in _italic_ and in __more italic__
 
+A piece of ruby code:
+
+<pre><code>:::ruby
+def hello
+  puts "Hi!"
+end</code></pre>
+
+
 You're reading a short article in Nesta, a rather simple CMS. I've
 created these pages so that you can learn the basics of Nesta by playing
 around with some examples. You'll find the content of all the pages on
