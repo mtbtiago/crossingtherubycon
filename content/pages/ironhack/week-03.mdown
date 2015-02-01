@@ -1,0 +1,36 @@
+Date: 31 Jan 2015
+
+# Ironhack. Week 03
+
+## The teachers
+
+Another week here at Ironhack!
+This week was devoted to frontend. First two days with [Rude Mortensen](https://twitter.com/Rude), who taught us **CSS** and [Bootstrap](http://getbootstrap.com/).
+Next three days with [Luis Rovirosa](https://twitter.com/luisrovirosa), **JavaScript** and [JQuery](http://jquery.com/)
+
+## The talks
+
+This week was plenty of talks and meetings.
+
+### Monday
+
+[Gonzalo Manrique](https://twitter.com/gonzumanrique), co-founder of Ironhack, explained the company creation. Growth numbers are awesome in just two years.
+After Gonzalo's talk, we go to an informal meeting with the CEO of [Evil Martians](https://evilmartians.com/) a Russian development company specialized in Ruby on Rails. [Alexander Tishchenko](https://twitter.com/golovorez) was a very verbose guy, with a lot of interesting things to explain to us. We grab one beer and listened to him with interest, and made some questions.
+
+### Tuesday
+
+**Bitcoins** with [Borja Rossell](https://twitter.com/borjarossell). This very young guy is the founder of [BTCPoint](https://www.linkedin.com/company/btcpoint), a company located in Barcelona and San Francisco who creates bitcoins cash machines, one of them located here, at [MOB](http://www.mob-barcelona.com/)
+
+### Thursday
+
+[Scott Mackin](https://twitter.com/ScottJMackin), founder and CEO at [Barcinno](http://www.barcinno.com) drove another beer talk about his company. He's specialized in help newcome entrepreneurs to Barcelona.
+
+## The subjects
+
+Frontend for old-style developers as me is not easy. In my known world, you put a button inside a frame and some controls or widgets and your user interface is done. Everything is where is supposed to be. With CSS, with or without frameworks as Bootstrap, all is more complicated. Luckily are a lot of docs and resources to make easy the switch.
+
+## The Friday evening
+
+
+<img src="/attachments/ironhack/week-03/beer-driven-development.jpg" class="picture" alt="beer driven development"</img>
+*Beer driven development on Friday* 
