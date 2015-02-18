@@ -1,0 +1,42 @@
+Date: 18 Feb 2015
+
+# Git --porcelaind and Sed
+
+Git, the de-facto version control tool, has many, many commands and options. Most of possible combinations are never used / explored for most users. One of them is the **--porcelain** option.
+
+This option, present in some commands as by example *git status*, forces output to be well formatting for use as input for other programs. I'll explain you one possible use what helped me in some cases.
+
+Imagine you are _branched_ to test or prove a crazy feature. Things didn't work as spected and you change yor mind. You didn't *git add*ed nor *commit*ed anything. You want to delete it all!
+
+Deleting branch with *git branch -d* <branch_name> just deletes the branch. The upper case *-D* don't aid in this case, due your branch has no commits.
+
+For modified files is as easy to *git checkout .* which restores your modified files to the latest commit. But for added files, you have to delete one by one with the *rm* operative system command. But, wait! Can I *rm* all? NOT! It will make a lot of changes prepared to _stash_ in your directory!
+
+Imagine you have this *git status*
+
+```$ git status
+app/assets/stylesheets/scaffolds.scss
+app/views/users/index.html.erb
+app/views/users/index.json.jbuilder
+app/views/users/show.json.jbuilder
+db/migrate/20150214195644_create_users.rb
+```
+
+if you type the __--porcelain__ option is transmuted as
+
+```$ git status --porcelain
+?? app/assets/stylesheets/scaffolds.scss
+?? app/views/users/index.html.erb
+?? app/views/users/index.json.jbuilder
+?? app/views/users/show.json.jbuilder
+?? db/migrate/20150214195644_create_users.rb
+```
+Then comes to help us the **sed** command. This stands for *stream editor*
+
+Try this:
+
+```$ git status --porcelain | sed s/\?\?/rm/ | bash```
+
+And your files will be deleted. A no one file that is not in the list!
+
+If you wonder what it makes, here is the solution: the __regular expression__ changes ?? by rm. And finally, the result is passed to bash to do the dirty work.
